@@ -1,0 +1,96 @@
+/*header section */
+#header
+{
+    background-color: hsl(193, 100%, 96%);
+    padding: 40px;
+}
+.navbar
+{
+    padding-bottom: 30px;
+}
+.btn-light
+{
+    border-radius: 30px;
+    width: 150px;
+}
+
+.header-btn
+{
+    background-color: hsl(322, 100%, 66%);
+    border-radius: 30px;
+    width: 250px;
+    color: white;
+    border: none;
+    height: 40px;
+}
+.header-btn:hover
+{
+    background-color: hsl(322, 59%, 66%);
+}
+.header-img
+{
+    width: 700px;
+}
+.header-card
+{
+    padding: 130px;
+}
+/*Flow section */
+
+.main-card
+{
+    transform: translateX(250px);
+    max-width: 1000px;
+    padding: 50px;
+    margin: 70px;
+}
+
+.grow-img
+{
+    width: 500px;
+}
+/*Footer section */
+#community
+{
+    background-color: hsl(192, 100%, 9%);
+}
+.footer-btn
+{
+    background-color: hsl(322, 100%, 66%);
+    border-radius: 30px;
+    width: 250px;
+    color: white;
+    border: none;
+    height: 40px;
+    position: relative;
+    left: 180px;
+    margin-top: 20px;
+    
+}
+.footer-card
+{
+    position: relative;
+    left: 350px;
+    transform: translateY(-30px);
+    text-align: center;
+    max-width: 700px;
+    padding: 50px;
+    margin: 70px;
+    
+}
+.footer-txt
+{
+    color: hsl(208, 11%, 55%);
+}
+.footer-info
+{
+    padding-left: 70px;
+}
+ul
+{
+    list-style-type:none;
+}
+footer
+{
+    text-align: center;
+}
